@@ -86,7 +86,7 @@ console.log(result); */
 
 // grouping presidence
 
-console.log((50 + 2) * 3);
+// console.log((50 + 2) * 3);
 
 // special operator
 
